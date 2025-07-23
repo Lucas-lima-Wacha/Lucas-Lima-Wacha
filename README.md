@@ -1,13 +1,12 @@
 
 ## Sou Lucas Lima Wacha
 
-### ⚡ Sou especialista em
+### ⚡ Sei codar em
 
-Python com Django
+python, c#, mysql, ios, kotlin, dart
+html css
 
-C#
 
-Html e css
 
 
 
