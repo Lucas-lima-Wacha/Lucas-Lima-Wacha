@@ -3,8 +3,8 @@
 
 ### ⚡ Sei codar em
 
-python, c#, mysql, ios, kotlin, dart
-html css
+python, c#, mysql, ios, kotlin, dart,
+html e css
 
 
 
